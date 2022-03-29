@@ -2,6 +2,7 @@
 <head>
  <meta name="google-site-verification" content="1vYoLEqbc_e-Teq82WZrxdBVeoeMaWOqD-JWsww6JYk" />
 </head>
+ </html>
 
 <h1>How to connect GitHub with Jira</h1>
 <p>If you are into product management, and you work with GitHub repos, you may have heard about Jira, or you may be using it already.</p>
