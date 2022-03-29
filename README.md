@@ -1,8 +1,7 @@
 <head>
-  <title>jira-github-integration homepage</title>
   <meta name="google-site-verification" content="1vYoLEqbc_e-Teq82WZrxdBVeoeMaWOqD-JWsww6JYk" />
 </head>
-
+<body>
 <h1>How to connect GitHub with Jira</h1>
 <p>If you are into product management, and you work with GitHub repos, you may have heard about Jira, or you may be using it already.</p>
 <p>If you have not used Jira yet, you should try it: it has some learning curve to understand and configure its elements but, once you get it, you will love the million possibilities of Jira and all its integrations.</p>
@@ -33,3 +32,4 @@
 <p>Another great aspect of this integration, with lots of positive reviews, is that their team of developers is very helpful if you need help using or configuring the app. You can even schedule a demo.</p>
 <p>Now you can navigate the waters of product management knowing that you have the best project management tool and the best git integration for it at your service.</p>
 <p>&nbsp;</p>
+</body>
