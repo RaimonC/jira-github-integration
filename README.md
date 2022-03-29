@@ -1,4 +1,5 @@
 <head>
+  <title>jira-github-integration homepage</title>
   <meta name="google-site-verification" content="1vYoLEqbc_e-Teq82WZrxdBVeoeMaWOqD-JWsww6JYk" />
 </head>
 
