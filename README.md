@@ -19,15 +19,15 @@
 <p><img src="https://raw.githubusercontent.com/RaimonC/jira-github-integration/main/1.%20Git%20Integration%20for%20Jira.png?raw=true" alt="Git-Jira integration" width="580" height="454" /></p>
 <p>Step 2</p>
 <p>Now enable your git repos and get the status &ldquo;indexed&rdquo;.</p>
-<p><img src="https://github.com/RaimonC/jira-github-integration/blob/gh-pages/2.%20Repo%20explorer.jpg?raw=true" alt="Git-Jira Integration" width="580" height="328" /></p>
+<p><img src="https://raw.githubusercontent.com/RaimonC/jira-github-integration/main/2.%20Repo%20explorer.jpg ?raw=true" alt="Git-Jira Integration" width="580" height="328" /></p>
 <p>Step 3</p>
 <p>It&rsquo;s ready to use!</p>
 <p>From repo explorer, you can create pull requests, branches, or check the commits. And your developers only have to mention the issue in Jira to link commits to that specific issue, track time, transition, assign, and more.</p>
-<p><img src="https://github.com/RaimonC/jira-github-integration/blob/gh-pages/3.%20Enable%20and%20index.jpg?raw=true" alt="" width="580" height="63" /></p>
+<p><img src="https://raw.githubusercontent.com/RaimonC/jira-github-integration/main/3.%20Enable%20and%20index.jpg?raw=true" alt="" width="580" height="63" /></p>
 <p><a href="https://docs.bitband.com/git-integration-for-jira/getting-started" target="_blank" rel="noopener">Click here for detailed instructions</a></p>
 <h2><strong>More Features</strong></h2>
 <p>This integration has some amazing and exclusive features like Team Insights, where you can have a broad picture of your team&rsquo;s performance over the days, weeks, months.</p>
-<p><img src="https://github.com/RaimonC/jira-github-integration/blob/gh-pages/4.%20Team%20insights.png?raw=true" alt="Team insights with Jira-Github plugin" width="580" height="240" /></p>
+<p><img src="https://raw.githubusercontent.com/RaimonC/jira-github-integration/main/4.%20Team%20insights.png?raw=true" alt="Team insights with Jira-Github plugin" width="580" height="240" /></p>
 <p><a href="https://docs.bitband.com/git-integration-for-jira/features" target="_blank" rel="noopener">Click here to see all the features</a></p>
 <p>Another great aspect of this integration, with lots of positive reviews, is that their team of developers is very helpful if you need help using or configuring the app. You can even schedule a demo.</p>
 <p>Now you can navigate the waters of product management knowing that you have the best project management tool and the best git integration for it at your service.</p>
