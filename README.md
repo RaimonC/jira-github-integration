@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="1vYoLEqbc_e-Teq82WZrxdBVeoeMaWOqD-JWsww6JYk" />
+ <meta name="google-site-verification" content="vc58ghg416Au88u2x0L2EOZ-GkTs5slLenUyIQzrAYY" />
 </head>
 <body>
 <h1>How to connect GitHub with Jira</h1>
