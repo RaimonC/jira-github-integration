@@ -16,7 +16,7 @@
 <h2>Integrate Git with Jira in three simple steps:</h2>
 <p>Step 1</p>
 <p>Once you have your Jira account, download the Git-Jira Integration from Atlassian Marketplace. Then select the Git service you are using -GitHub in this case- and enter your authentication details. &nbsp;</p>
-<p><img src="https://github.com/RaimonC/jira-github-integration/blob/gh-pages/1.%20Git%20Integration%20for%20Jira.png?raw=true" alt="Git-Jira integration" width="580" height="454" /></p>
+<p><img src="https://raw.githubusercontent.com/RaimonC/jira-github-integration/main/1.%20Git%20Integration%20for%20Jira.png?raw=true" alt="Git-Jira integration" width="580" height="454" /></p>
 <p>Step 2</p>
 <p>Now enable your git repos and get the status &ldquo;indexed&rdquo;.</p>
 <p><img src="https://github.com/RaimonC/jira-github-integration/blob/gh-pages/2.%20Repo%20explorer.jpg?raw=true" alt="Git-Jira Integration" width="580" height="328" /></p>
