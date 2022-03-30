@@ -32,4 +32,4 @@
 <p>Another great aspect of this integration, with lots of positive reviews, is that their team of developers is very helpful if you need help using or configuring the app. You can even schedule a demo.</p>
 <p>Now you can navigate the waters of product management knowing that you have the best project management tool and the best git integration for it at your service.</p>
 <p>&nbsp;</p>
-</body>
+</body> 
